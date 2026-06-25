@@ -233,24 +233,6 @@ Análise de tempo médio de entrega, modo de envio, pedidos por mês e gargalos 
 
 ---
 
-
-
-## 📸 Prévia do dashboard
-
-Adicione aqui imagens do seu projeto:
-
-```markdown
-
-![Dashboard de Faturamento](images/analise_faturamento.png)
-
-![Dashboard de Lucro vs Prejuízo](images/analise_lucroxpreju.png)
-
-![Dashboard de Logística](images/analise_logistica.png)
-
-```
-
----
-
 ## 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto, foram praticados conceitos importantes para análise de dados e Business Intelligence, como:
