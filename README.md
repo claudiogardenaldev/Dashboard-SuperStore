@@ -1,5 +1,5 @@
 # Dashboard-SuperStore
-# Superstore 360° — Análise de Vendas, Rentabilidade e Logística com Power BI
+# Superstore — Análise de Vendas, Rentabilidade e Logística com Power BI
 
 ## 💡 Resumo do projeto
 
